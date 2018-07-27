@@ -1,4 +1,10 @@
 <application>
+  <component name="MessDetector">
+    <phpmd_settings_migrated />
+  </component>
+  <component name="PhpCodeSniffer">
+    <phpcs_settings_migrated />
+  </component>
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="$USER_HOME$/Documents/proyectos/ticketbeast/vendor/bin/phpunit" id="ab33dae0-abac-466d-9739-10735c8df093" name="PHPUnit" debugger_id="php.debugger.XDebug" />
